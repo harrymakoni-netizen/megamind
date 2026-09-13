@@ -1,0 +1,7 @@
+.git
+node_modules
+dist
+proposal-reference.txt
+logo-preview.png
+README.md
+src/engine.test.js

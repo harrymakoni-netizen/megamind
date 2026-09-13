@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+.vercel/
+.env*
+proposal-reference.txt
+logo-preview.png
+
+.vercel
+.env*
